@@ -1,0 +1,1 @@
+This is in t2 dic. And there is a t2.txt in it.
